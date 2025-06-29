@@ -1,8 +1,6 @@
 # 🎛️ Tyler's Semi-Ultimate Unit Converter
 _Converts between IPv4 addresses and 32-bit integers — tailored for GCS use._
 
-![Nord Palette](https://raw.githubusercontent.com/arcticicestudio/nord/master/art/colors-and-palettes/nord-palette.png)
-
 ## 💡 Overview
 **GCS_Converter.py** is a streamlined tool designed to effortlessly convert between IPv4 addresses and their corresponding 32-bit integers. Whether you're working on automation, network configs, or just want to demystify IP math, this utility brings clarity and functionality with minimalist aesthetics.
 
